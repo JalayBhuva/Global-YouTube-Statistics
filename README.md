@@ -26,6 +26,7 @@ Genre and Platform Diversity: Analyzing video views across various genres to und
 ## E. Solution
 
 Data Cleaning and Preprocessing: Rigorous data cleaning procedures to handle missing values and ensure data accuracy.
+
 Visualization Techniques: Using charts and graphs to visually represent video views data, genre preferences, and platform popularity.
  
 
