@@ -14,6 +14,7 @@ Analyzing Global YouTube data involves addressing challenges related to changing
 ## C. Tools
 
 Primary: Python
+
 Secondary: pandas, matplotlib, seaborn and NumPY
  
 
